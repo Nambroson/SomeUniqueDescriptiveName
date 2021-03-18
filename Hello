@@ -1,0 +1,13 @@
+public class Hello{
+	
+/**
+ * @author Nick Ambroson - ntambroson
+ * CIS175 - Spring 2021
+ * Mar 17, 2021
+ */
+	
+	public static void main(String args[]){
+		System.out.println("Hello, World!");
+			
+	}
+}
